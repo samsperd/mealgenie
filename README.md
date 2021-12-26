@@ -5,5 +5,8 @@ A school food delivery web application. It is a three authentication application
 - The delivery worker platform receives the requests, accept them. The platform can also activate and de-activate any food or addon unavaliable in a restaurant.
 - Customer sees foods avaliable on the client side, places order and waits for the order. Payment gateways are Paystack and Flutterwave
 
+## Components
+Made with laravel, vue js, bootsrap vue, vuetify, paystack, flutterwave
 ## Note
-This was a personal business and was an actual business when i was in college
+This was a personal business and was an actual business when I was in college
+
