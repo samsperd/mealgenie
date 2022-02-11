@@ -7,6 +7,5 @@ A school food delivery web application. It is a three authentication application
 
 ## Components
 Made with laravel, vue js, bootsrap vue, vuetify, paystack, flutterwave
-## Note
-This was a personal business and was an actual business when I was in college
+
 
